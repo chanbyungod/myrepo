@@ -10,3 +10,9 @@ oss repository
 
 이 저장소는 제 첫 저장소입니다
 
+
+
+hello.py 실행 방법
+
+: VS code 실행하여 hello.py 파일 컴퓨터에 저장 후 우측 상단 ▶️ 클릭, 아래 터미널에서 결과 확인
+
