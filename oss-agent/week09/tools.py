@@ -17,5 +17,5 @@ def get_boxoffice_rank_1(date):
     response = requests.get(BASE_URL, params=params, timeout=10)
     data = response.json()
     movies = data['boxOfficeResult']['dailyBoxOfficeList']
-    return movies[0]['movieNm'] 
+    return movies[0]['movieNm']
     
