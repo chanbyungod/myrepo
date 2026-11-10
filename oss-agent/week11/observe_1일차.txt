@@ -1,0 +1,28 @@
+11주차 관찰 기록
+이름: 이찬병
+학번: 20231357
+
+※ 각 질문 아래 "답:" 뒤에 짧게 적을 것. (화면 글을 복사해 붙여도 됨)
+
+
+[1일차]
+
+1. (6단계) 빈칸을 채우지 않고 실행했을 때, call 안에 보인 도구 이름과 인자는?
+답: "extra_content": {
+    "google": {
+      "thought_signature": "EmAKXgFpFH0TxT+traaeCsT1fHhMCLyZ97DsnphStBp5OrQwOmcu4boqkqvlj5v10BEg/02XTDv3Nx1g878/Dvk9W0Moyq4dM0V2YUbkkCmtL0rMKnMnWfApK8qPmWv5o6o="
+    }
+  },
+  "function": {
+    "arguments": "{\"date\":\"20261108\"}",
+    "name": "get_boxoffice_rank_1"
+  },
+  "id": "call_14300061327378724225",
+  "type": "function"
+
+2. (8단계) 빈칸 1을 채우고 실행했을 때, 화면 마지막 줄은?
+답: FUNCTIONS 사전에서 'get_boxoffice_rank_1' 함수를 꺼내 func 에 담을 것.
+
+3. (선택) 2위 영화를 물었을 때, 모델은 어떤 도구를 불렀나? 부르지 않았다면 뭐라고 답했나?
+답: get_boxoffice_rank_1 = 1위 영화를 불러오는 도구
+
