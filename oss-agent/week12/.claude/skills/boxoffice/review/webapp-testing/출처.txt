@@ -1,0 +1,6 @@
+이 폴더는 Anthropic 의 공개 저장소 anthropics/skills 에서 그대로 복사한 것입니다. (수업에서 보기만 하는 참고 자료)
+
+- 원본: https://github.com/anthropics/skills/tree/ca45fc496a3436251f191354091d557da31c15b5/skills/webapp-testing
+- 커밋: ca45fc496a3436251f191354091d557da31c15b5 (2026-10-28)
+- 라이선스: Apache License 2.0 (같은 폴더의 LICENSE.txt)
+- 고친 것: 없음. 이 출처.txt 파일만 수업에서 덧붙였습니다.
